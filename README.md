@@ -1,8 +1,6 @@
 # Home Credit Default Risk [Machine Learning Project]
 
-### In Dev!
-
-This is a Python-based implementation of atleast two different types of machine learning models on the task of "Home Credit Default Risk".
+This is a Python-based implementation of two different types of machine learning models *[mentioned below]* on the task of "Home Credit Default Risk".
 
 ## About Dataset:
 Home Credit Default Risk DataSet from [Kaggle Competitions](https://www.kaggle.com/c/home-credit-default-risk)
