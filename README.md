@@ -40,7 +40,7 @@ Home Credit Default Risk DataSet from [Kaggle Competitions](https://www.kaggle.c
 
 ### Data Prepration
 1. Merging all 6 Datasets - Key = SK_ID_CURR
-2. 
+
 ### Data Preprocessing
 
 1. Imputing Categorical & Numerical Data (SimpleImputer)
@@ -60,6 +60,7 @@ Model Used - LGBMClassifier
 2. RandomForest Classifier [About](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
 #### Model Evaluation
+
 #### HyperParameter Tunning
 
 ### Results
