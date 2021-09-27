@@ -30,9 +30,23 @@ Home Credit Default Risk DataSet from [Kaggle Competitions](https://www.kaggle.c
 
 ### Exploratory Data Analysis
 
+1. Checking Missing Values (Data contains lots of null values and need to be clean or replace using Imputation Techniques)
+2. Checking Duplicate Data (The no. of duplicates in the data: 0)
+3. Data Visualization
+
 ### Feature Engineering
 
+1. Feature Engineering Application Train Data
+
+### Data Prepration
+1. Merging all 6 Datasets - Key = SK_ID_CURR
+2. 
 ### Data Preprocessing
+
+1. Imputing Categorical & Numerical Data (SimpleImputer)
+2. Scaling Numerical Data (StandardScaler) 
+3. Encoding Categorical Data (OneHotEncode)
+4. Class Balancing (RandomOverSampling)
 
 ### Feature Selection
 
@@ -44,5 +58,8 @@ Model Used - LGBMClassifier
 
 1. LGBM Classifier [About](https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMClassifier.html)
 2. RandomForest Classifier [About](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+
+#### Model Evaluation
+#### HyperParameter Tunning
 
 ### Results
