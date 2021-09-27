@@ -28,6 +28,8 @@ Home Credit Default Risk DataSet from [Kaggle Competitions](https://www.kaggle.c
 
 ### Data Loading
 
+`!kaggle competitions download home-credit-default-risk`
+
 ### Exploratory Data Analysis
 
 1. Checking Missing Values (Data contains lots of null values and need to be clean or replace using Imputation Techniques)
