@@ -2,27 +2,23 @@
 
 This is a Python-based implementation of two different types of machine learning models *[mentioned below]* on the task of "Home Credit Default Risk".
 
+#### Language and Libraries
+
+<p>
+<a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Seaborn"/></a>
+ <a><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/></a>
+<a><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Seaborn"/></a>
+<a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/></a>
+ <a><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="cplusplus" width="110"/></a>
+<a><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn"width="110"/></a>
+</p>
+
 ## About Dataset:
 Home Credit Default Risk DataSet from [Kaggle Competitions](https://www.kaggle.com/c/home-credit-default-risk)
 
 ### [Data Set Information](https://www.kaggle.com/c/home-credit-default-risk/data)
 
 <a><img src="https://storage.googleapis.com/kaggle-media/competitions/home-credit/home_credit.png" alt="Data" align="center"/></a>
-
-### Libraries Used:
-
-<table>
-<tbody>
-<tr>
-<td><a><img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="Pandas" align="center" width="75"/></a></td>
-<td><a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/330px-NumPy_logo_2020.svg.png" alt="Numpy" align="center" width="75"/></a></td>
-<td><a><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="cplusplus" align="center" width="75"/></a></td>
-<td><a><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" align="center" width="75"/></a></td>
-<td><a><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" align="center" width="75"/></a></td>
-<td><a><img src="https://lightgbm.readthedocs.io/en/latest/_static/LightGBM_logo_grey_text.svg" alt="LightGBM" align="center" width="75"/></a></td>
-</tr>
-</tbody>
-</table>
 
 ## Table of Content:
 
